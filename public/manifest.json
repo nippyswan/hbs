@@ -1,0 +1,20 @@
+{
+    "short_name": "Handpicked By Swan",
+    "name": "Handpicked By Swan",
+    "description": "Handpicked By Swan",
+    "icons": [
+        {
+            "src": "/pwa.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+        
+    ],
+    "start_url": "./?utm_source=web_app_manifest",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color":"#000",
+    "theme_color":"#000",
+    "scope": "/"
+}
